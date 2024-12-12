@@ -1,1 +1,1 @@
-This project is about making a website about recipe using basic HTML!
+This project is about making a website about recipe using basic <strong>HTML</strong>!
